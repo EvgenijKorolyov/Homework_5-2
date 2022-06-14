@@ -1,0 +1,81 @@
+.card {
+    width: 300px;
+    height: 675px;
+}
+
+.wrapper {
+    width: 280px;
+    margin: 10px;
+}
+
+.poster {
+    height: 420px;
+}
+
+.poster img {
+    position: relative;
+}
+.thirdd {
+    top: -282px;
+    left: 92px;
+    z-index: 1;
+
+}
+
+.stock {
+    top: -102px;
+    left: -93px;
+    z-index: 1;
+    opacity: 0.8;
+}
+
+.header {
+    height: 75px;
+    padding:11px 6px 7px 6px;
+}
+
+.header h1 {
+    font-family: Oswald, sans-serif;
+    font-size: 30px;
+    line-height: 27px;
+    color: #616161;
+    text-align: center;
+    letter-spacing: -1.1px;
+}
+
+.price {
+    height: 45px;
+    padding: 9px 0 4px 0;
+}
+.price p {
+    font-family: Oswald;
+    font-size: 30px;
+    line-height: 27px;
+    font-weight: 700;
+    color: #242323;
+    text-align: center;
+}
+
+.price span {
+    font-size: 19px;
+    text-decoration: line-through;
+    color: #868282;
+}
+
+.grade {
+    height: 40px;
+}
+
+.grade img {
+    display: block;
+    margin: 6px auto;
+}
+
+.buy {
+    height: 85px;
+}
+
+.buy img {
+    display: block;
+    margin: 5px auto;
+}
